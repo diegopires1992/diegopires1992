@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="500" height="200" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47swp66x8fk4slr4yen9sweod5o6zx40hbl46p5fob&rid=giphy.gif&ct=g"></img>
+<img align="center" alt="Coding" width="800" height="200" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47swp66x8fk4slr4yen9sweod5o6zx40hbl46p5fob&rid=giphy.gif&ct=g"></img>
 
 <h1 align="center">Hi 👋, I'm Diego PIRES</h1>
 <h3 align="center">I'm a developer passionate about the fullstack area</h3>
