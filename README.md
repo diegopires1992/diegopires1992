@@ -64,7 +64,6 @@
             alt="diegopires1992" />
     </div>
     <div>
-
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegopires1992&"
             alt="diegopires1992" />
     </div>
