@@ -1,9 +1,10 @@
-<img src="https://komarev.com/ghpvc/?username=diegopires1992&label=Profile%20views&color=0e75b6&style=flat" alt="diegopires1992" /> 
+<img align="center" alt="Coding" width="2000" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47swp66x8fk4slr4yen9sweod5o6zx40hbl46p5fob&rid=giphy.gif&ct=g"></img>
+
 <h1 align="center">Hi 👋, I'm Diego PIRES</h1>
 <h3 align="center">I'm a developer passionate about the fullstack area</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47swp66x8fk4slr4yen9sweod5o6zx40hbl46p5fob&rid=giphy.gif&ct=g"></img>
 
-<p align="left"> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegopires1992&label=Profile%20views&color=0e75b6&style=flat" alt="diegopires1992" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
