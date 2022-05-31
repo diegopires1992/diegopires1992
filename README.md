@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Pires</h1>
-<h3 align="center">I'm a developer passionate about the fullstack area</h3>
+<h3 align="center">It's great to celebrate success, but it's more important to learn from the lessons of failure.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegopires1992&label=Profile%20views&color=0e75b6&style=flat" alt="diegopires1992" /> </p>
