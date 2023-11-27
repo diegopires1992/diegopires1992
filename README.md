@@ -58,11 +58,6 @@
             alt="typescript" width="40" height="40" /> </a>
 <div style="display:flex; align-items:center; justify-items: center;justify-content: space-around;">
     <div>
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=diegopires1992&show_icons=true&locale=en&layout=compact"
-            alt="diegopires1992" />
-    </div>
-    <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegopires1992&"
             alt="diegopires1992" />
     </div>
